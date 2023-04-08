@@ -82,7 +82,7 @@ isbn="978-3-031-17247-2"
 }
 
 ```
-(c) ICON Lab 2022
+(c) ICON Lab 2023
 
 # Prerequisites
 
