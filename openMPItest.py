@@ -15,7 +15,7 @@ import copy
 
 # Settings for inference:
 
-gpuNo = 3 # use GPU ID
+gpuNo = 0 # use GPU ID
 
 initializationTo = 1 # initialize ADMM to least squares input
 # 0: zeros
@@ -252,9 +252,9 @@ for selAxes in range(3):
         # plt.colorbar()
         plt.axis('off')
         if 'ppmpi' in desc and '(-1'  not in desc:
-            title = 'PnP (Single Slice)'
+            title = 'PP-MPI (Single Slice)'
         elif 'ppmpi' in desc and '(-1'  in desc:
-            title = 'PnP (All Slices)'
+            title = 'PP-MPI (All Slices)'
         elif 'E2E' in desc:
             title = 'E2E'
         elif 'L1_TV' in desc:
