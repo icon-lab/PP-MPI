@@ -2,11 +2,9 @@ import wandb
 import torch
 import sys
 
-# sys.path.append("/root/hostShare/newMRA/newDatasetTrials")
 from torch.utils.data import Dataset, DataLoader
 from data import *
 from modelClasses import *
-# from mlp_mixer_pytorch import *
 from trainerClasses import *
 
 import os
