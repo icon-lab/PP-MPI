@@ -7,7 +7,11 @@ B. Askin, A. Güngör, D. A. Soydan, E. U. Saritas, C. B. Top and T. Çukur, "PP
 You can use the following links to download training, validation, test datasets. 
 
 # Dataset
-To be uploaded
+
+Download the folders datasets and OpenMPI in the same folder as the code:
+
+https://drive.google.com/drive/folders/1_rJxCCIepB8x9jI7vUXJCcGJJ-xPfpuy?usp=sharing
+
 
 # Pretrained Networks:
 Pre-trained network can be found under training/denoiser/ folder.
