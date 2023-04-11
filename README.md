@@ -10,7 +10,7 @@ You can use the following links to download training, validation, test datasets.
 
 Download the folders datasets and OpenMPI in the same folder as the code:
 
-https://drive.google.com/drive/folders/1_rJxCCIepB8x9jI7vUXJCcGJJ-xPfpuy?usp=sharing
+https://drive.google.com/drive/folders/1tTRM-vhqONWCkZsW2Gxd5MZi8L-U13N6?usp=sharing
 
 
 # Pretrained Networks:
